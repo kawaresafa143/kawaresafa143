@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated second-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong academic record. I'm passionate about building intelligent systems and solving real-world problems through data-driven approaches. I'm actively honing my skills in **Python**, **HTML**, and **CSS**, and always eager to learn and apply new technologies. I've also demonstrated leadership through active volunteering at technical and non-technical college events. I'm seeking opportunities to apply classroom learning to industry challenges and contribute to innovative engineering teams.
+Aspiring AIML Engineer and Full-Stack Developer dedicated to building intelligent, data-driven solutions for real-world impact. Currently bridging the gap between advanced machine learning concepts and practical, user-centric software through innovative engineering.
 
 ---
 

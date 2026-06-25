@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Aspiring AIML Engineer and Full-Stack Developer dedicated to building intelligent, data-driven solutions for real-world impact. Currently bridging the gap between advanced machine learning concepts and practical, user-centric software through innovative engineering.
+Aspiring AIML Engineer and Full-Stack Developer, specializing in building intelligent, user-centric platforms. I leverage expertise in React.js, Node.js, and database management, integrating AI to create innovative solutions like community sharing platforms and facility management systems.
 
 ---
 

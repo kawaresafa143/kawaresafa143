@@ -45,20 +45,6 @@ Here are some of my notable projects:
 
 ---
 
-## 🤝 Volunteer Experience
-
-- **Tech Fest Volunteer — SHODH 2K26** (2025-26): Coordinated logistics and participant registration for coding competitions, hackathons, and robotics events. Assisted in setting up demo stations and guided 200+ participants. Collaborated with a cross-functional team of 30+ volunteers.
-- **Cultural Fest Volunteer — SYNERGY 2K26** (2023 – 2024): Managed stage coordination, audience engagement, and scheduling across cultural performances and group events. Demonstrated strong organizational and interpersonal skills.
-
----
-
-## 📚 Extracurricular Activities
-
-- Active member of the college Computer Science & AI/ML student club — participated in internal ideathons and group discussions on emerging tech trends.
-- Engaged in self-directed learning through tutdude, and YouTube — completed courses in Python for Data Science and Introduction to Machine Learning.
-- Passionate about reading tech blogs and following AI/ML research papers to stay current with advancements in the field.
-
----
 
 
 ## 📊 GitHub Stats

@@ -25,6 +25,9 @@ Here are some of my notable projects:
 - **Nayepankh Volunteer Registration System — NGO Management Platform** [Live Demo](https://volunteer-registration-system-for-n.vercel.app):
   *Tech Stack: React.js, Node.js, Firebase, AI Chatbot*
   Developed a volunteer management system for an NGO to simplify volunteer onboarding, event participation, and administrative workflows. Integrated an AI chatbot assistant to help users with queries and improve the overall platform experience.
+- **Society Maintenance & Billing System — Housing Society Management** [Live Demo](https://society-maintenance-billing-system.vercel.app/):
+  *Tech Stack: React.js, Node.js, Express.js, Tailwind CSS v4, JWT*
+  Developed a comprehensive digital solution for housing societies to automate maintenance collection. Features include a resident portal for dues tracking and UPI payments, an admin dashboard for financial oversight, automated bilingual (English/Marathi) WhatsApp notifications, and PDF receipt generation.
 
 ---
 

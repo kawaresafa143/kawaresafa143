@@ -1,4 +1,4 @@
-# Hi there, I'm kawaresafa143! 👋
+# Hi there, I'm Safa! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Student+Developer;AIML+Engineering+Student;Building+Intelligent+Systems" alt="Typing SVG" />

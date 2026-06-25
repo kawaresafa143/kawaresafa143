@@ -62,7 +62,7 @@ Here are some of my notable projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kawaresafa143&show_icons=true&theme=radical" alt="kawaresafa143's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaresafa143&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaresafa143&layout=compact&theme=radical&hide=typescript,css,html" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawaresafa143&theme=radical" alt="GitHub Streak"/>
 </p>
 

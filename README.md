@@ -16,9 +16,15 @@ I'm a highly motivated second-year Computer Science student specializing in **Ar
 
 Here are some of my notable projects:
 
-- **Pink Apron — Community Recipe Sharing Platform** ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [Live Demo](https://pinkapron.vercel.app): Building a full-stack web platform where users can share recipes they love. Features include user accounts, recipe submission, a community feed, and AI-assisted recipe generation using the Claude AI API.
-- **Apex Arena — Sports Club & Facility Management Platform** ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [Live Demo](https://apex-arena-pi.vercel.app): Developed a full-stack sports facility management platform designed to streamline operations for sports clubs and training centers. Built features including interactive court booking, trainer scheduling, membership applications, user authentication, and personalized booking dashboards.
-- **Nayepankh Volunteer Registration System — NGO Management Platform** ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [Live Demo](https://volunteer-registration-system-for-n.vercel.app): Developed a volunteer management system for an NGO to simplify volunteer onboarding, event participation, and administrative workflows. Integrated an AI chatbot assistant to help users with queries and improve the overall platform experience.
+- **Pink Apron — Community Recipe Sharing Platform** [Live Demo](https://pinkapron.vercel.app):
+  *Tech Stack: React.js, Node.js, MongoDB, Claude AI API*
+  Building a full-stack web platform where users can share recipes they love. Features include user accounts, recipe submission, a community feed, and AI-assisted recipe generation using the Claude AI API.
+- **Apex Arena — Sports Club & Facility Management Platform** [Live Demo](https://apex-arena-pi.vercel.app):
+  *Tech Stack: React.js, Node.js, Express.js, MySQL*
+  Developed a full-stack sports facility management platform designed to streamline operations for sports clubs and training centers. Built features including interactive court booking, trainer scheduling, membership applications, user authentication, and personalized booking dashboards.
+- **Nayepankh Volunteer Registration System — NGO Management Platform** [Live Demo](https://volunteer-registration-system-for-n.vercel.app):
+  *Tech Stack: React.js, Node.js, Firebase, AI Chatbot*
+  Developed a volunteer management system for an NGO to simplify volunteer onboarding, event participation, and administrative workflows. Integrated an AI chatbot assistant to help users with queries and improve the overall platform experience.
 
 ---
 

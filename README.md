@@ -53,9 +53,8 @@ Here are some of my notable projects:
 
 ## 🔭 Currently Learning / Working On
 
-- Deepening my understanding of **Advanced Neural Network Architectures** (e.g., Transformers, GANs).
-- Exploring **Cloud-Native Development** with AWS/Azure for scalable AI deployments.
-- Contributing to open-source projects focused on **ethical AI** and **data privacy**.
+- Exploring **DevOps practices** and **AIML methodologies** for efficient software delivery.
+- Learning about **new AI tools** and **automation techniques** to streamline development workflows.
 
 ---
 
